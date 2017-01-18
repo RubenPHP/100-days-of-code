@@ -8,3 +8,11 @@
 
 **Link to work:** [Lara Shoping Cart](https://github.com/RubenPHP/larashopingcart)
 
+### Day 1: January 17, 2017
+
+**Today's Progress**: Added main controller, create new layout, views and routes.
+
+**Thoughts:** Larabel routing system is easy, also layout system and controllers. It seems like laravel is easy to learn, and well structured.
+
+**Link to work:** [Lara Shoping Cart](https://github.com/RubenPHP/larashopingcart)
+
