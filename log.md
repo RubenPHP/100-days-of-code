@@ -31,3 +31,11 @@
 **Thoughts:** Migrations are very intuitive and are fast to create and modify.
 
 **Link to work:** [Lara Shoping Cart](https://github.com/RubenPHP/larashopingcart)
+
+### Day 5: January 19, 2017
+
+**Today's Progress**: Creating new Chrome Extension for YouTube.
+
+**Thoughts:** For now only the jQuery and Calendar part..
+
+**Link to work:** [YouTube Scheduled Videos Calendar Chrome Extension](https://github.com/RubenPHP/YouTubeCalendarChromeExtension)
