@@ -47,3 +47,11 @@
 **Thoughts:** Basic extension structure created thanks to http://extensionizr.com/
 
 **Link to work:** [YouTube Scheduled Videos Calendar Chrome Extension](https://github.com/RubenPHP/YouTubeCalendarChromeExtension)
+
+### Day 7: January 22, 2017
+
+**Today's Progress**: Show more information on the calendar
+
+**Thoughts:** Is great to see all the scheduled videos on the calendar
+
+**Link to work:** [YouTube Scheduled Videos Calendar Chrome Extension](https://github.com/RubenPHP/YouTubeCalendarChromeExtension)
