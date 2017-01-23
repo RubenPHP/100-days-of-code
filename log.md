@@ -55,3 +55,11 @@
 **Thoughts:** Is great to see all the scheduled videos on the calendar
 
 **Link to work:** [YouTube Scheduled Videos Calendar Chrome Extension](https://github.com/RubenPHP/YouTubeCalendarChromeExtension)
+
+### Day 8: January 23, 2017
+
+**Today's Progress**: Add calendar icon and improve visual style
+
+**Thoughts:** The calendar can be improved, but for now it's usable.
+
+**Link to work:** [YouTube Scheduled Videos Calendar Chrome Extension](https://github.com/RubenPHP/YouTubeCalendarChromeExtension)
