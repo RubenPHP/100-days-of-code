@@ -63,3 +63,11 @@
 **Thoughts:** The calendar can be improved, but for now it's usable.
 
 **Link to work:** [YouTube Scheduled Videos Calendar Chrome Extension](https://github.com/RubenPHP/YouTubeCalendarChromeExtension)
+
+### Day 9: January 24, 2017
+
+**Today's Progress**: Started new project using laravel. Started creating new migrations
+
+**Thoughts:** Laravel migration system is well documented
+
+**Link to work:** Private work. The name of the site is quevicio
