@@ -71,3 +71,11 @@
 **Thoughts:** Laravel migration system is well documented
 
 **Link to work:** Private work. The name of the site is quevicio
+
+### Day 10: January 25, 2017
+
+**Today's Progress**: Create all migrations, and sql script to copy old data from symfony database to laravel database
+
+**Thoughts:** Laravel migrations are easy to use
+
+**Link to work:** Private work. The name of the site is quevicio
