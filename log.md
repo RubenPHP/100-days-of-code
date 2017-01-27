@@ -80,7 +80,7 @@
 
 **Link to work:** Private work. The name of the site is quevicio
 
-### Day 10: January 25, 2017
+### Day 11: January 26, 2017
 
 **Today's Progress**: Create main layout and home
 
