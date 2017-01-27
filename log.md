@@ -79,3 +79,11 @@
 **Thoughts:** Laravel migrations are easy to use
 
 **Link to work:** Private work. The name of the site is quevicio
+
+### Day 10: January 25, 2017
+
+**Today's Progress**: Create main layout and home
+
+**Thoughts:** Blade seems as a clean template system
+
+**Link to work:** Private work. The name of the site is quevicio
