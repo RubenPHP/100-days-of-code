@@ -87,3 +87,11 @@
 **Thoughts:** Blade seems as a clean template system
 
 **Link to work:** Private work. The name of the site is quevicio
+
+### Day 12: January 27, 2017
+
+**Today's Progress**: Having fun with Google Analytics PHP API
+
+**Thoughts:** Not much fun really
+
+**Link to work:** Private work.
