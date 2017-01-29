@@ -95,3 +95,11 @@
 **Thoughts:** Not much fun really
 
 **Link to work:** Private work.
+
+### Day 13: January 28, 2017
+
+**Today's Progress**: Fixing some code on private proyect Usitility
+
+**Thoughts:** 
+
+**Link to work:** Private work.
