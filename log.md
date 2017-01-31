@@ -103,3 +103,27 @@
 **Thoughts:** 
 
 **Link to work:** Private work.
+
+### Day 14: January 29, 2017
+
+**Today's Progress**: Creating new feature on private proyect Usitility
+
+**Thoughts:** 
+
+**Link to work:** Private work.
+
+### Day 15: January 30, 2017
+
+**Today's Progress**: Creating new feature on private proyect Usitility
+
+**Thoughts:** 
+
+**Link to work:** Private work.
+
+### Day 16: January 31, 2017
+
+**Today's Progress**: Creating new feature on private proyect Usitility
+
+**Thoughts:** 
+
+**Link to work:** Private work.
