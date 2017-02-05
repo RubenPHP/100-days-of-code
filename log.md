@@ -127,3 +127,35 @@
 **Thoughts:** 
 
 **Link to work:** Private work.
+
+### Day 17: February 1, 2017
+
+**Today's Progress**: Creating new feature on private proyect Usitility
+
+**Thoughts:** 
+
+**Link to work:** Private work.
+
+### Day 18: February 2, 2017
+
+**Today's Progress**: Creating new feature on private proyect Usitility
+
+**Thoughts:** 
+
+**Link to work:** Private work.
+
+### Day 19: February 3, 2017
+
+**Today's Progress**: Creating new feature on private proyect Usitility
+
+**Thoughts:** 
+
+**Link to work:** Private work.
+
+### Day 20: February 4, 2017
+
+**Today's Progress**: Add information of previous videos
+
+**Thoughts:** The calendar can be improved, but for now it's usable.
+
+**Link to work:** [YouTube Scheduled Videos Calendar Chrome Extension](https://github.com/RubenPHP/YouTubeCalendarChromeExtension)
